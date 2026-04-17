@@ -33,7 +33,7 @@ Os exercícios estão distribuídos por diferentes ficheiros:
 
 1. Clonar o repositório:
 
-   git clone https://github.com/a14790/3-modulo.git
+   git clone https://github.com/a14788/3-modulo.git
 
 2. Aceder à pasta do projeto:
 
@@ -42,19 +42,3 @@ Os exercícios estão distribuídos por diferentes ficheiros:
 3. Executar um dos ficheiros:
 
    python nome_do_ficheiro.py
-
----
-
-## 🎯 Finalidade
-
-* Melhorar o raciocínio lógico
-* Praticar a linguagem Python
-* Desenvolver pequenos programas funcionais (menus, cálculos e validações)
-
----
-
-## 📌 Observações
-
-* Projeto com objetivo académico
-* Exercícios realizados em ambiente de aula
-* Código simples, pensado para aprendizagem progressiva
