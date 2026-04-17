@@ -33,7 +33,7 @@ Os exercícios estão distribuídos por diferentes ficheiros:
 
 1. Clonar o repositório:
 
-   git clone https://github.com/a14788/3-modulo.git
+   git clone https://github.com/a14788/PSI-M3.git
 
 2. Aceder à pasta do projeto:
 
